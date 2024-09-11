@@ -1,10 +1,17 @@
+![](media/000c259394997a4a2be1e2b11465b55d.png)
 
-WangShaolinJP
+**WangShaolinJP**
 
-JarProtect
+***
 
+**JarProtect**
 
-特点：
+![](media/4c59838c9f143479b57b507ef750274d.png)
+
+**  
+**
+
+**特点：**
 
 1.加解密代码采用JNI方式，隐藏所有实现细节，防止被内存解密，从而保证更安全；
 
@@ -20,35 +27,37 @@ JarProtect
 
 7.可按需配置运行参数-XX:+DisableAttachMechanism等参数，防止Attach内存代码；
 
-界面：
+**界面：**
 
+![](media/46f3671b1ff7029349fcebce3e34f48f.png)
 
+**演示：**
 
-演示：
+![](media/651e71736a7605b216d777469d6270b7.png)
 
+**运行：**
 
+![](media/a545d89240fddea772c9f1f62dfb69a4.png)
 
-运行：
+**清除：**
 
+![](media/96722e10503520e8226a1945b029bef7.png)
 
+**平台：**
 
-清除：
+![](media/a4cafda1c189fa8f0dee9bbc344ce533.png)
 
+**业务：**
 
+![](media/42c0e67934d6688669529623b20579b6.png)
 
-平台：
+**配置：**
 
+![](media/67dfed88065127d0bce962965fbca242.png)
 
+**加群：**
 
-业务：
+![](media/389200b1d4a4fd8b255e48ca77b3037a.png)
 
-
-
-配置：
-
-
-
-加群：
-
-QQ：767688909
+QQ：767688909  
 QQ Group 01：693795906
